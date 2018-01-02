@@ -2,7 +2,7 @@
   "name": "quasar-app",
   "version": "0.0.1",
   "description": "Clinalamo Mobile",
-  "homepage": "https://akumamos.github.io/smartableways",
+  "homepage": "https://github.com/Akumamos/smartableways.git",
   "author": "João Coelho",
   "scripts": {
     "clean": "node build/script.clean.js",
