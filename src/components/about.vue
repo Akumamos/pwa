@@ -4,7 +4,7 @@
       <img src="../assets/quasar-logo-full.svg" />
 
       <p class="caption">
-        About
+        About 123
          <br>
         For a full list, visit the documentation website.
       </p>
